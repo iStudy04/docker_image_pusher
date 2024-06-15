@@ -1,1 +1,1 @@
-arm64v8/mysql
+--platform=arm64v8 arm64v8/mysql
