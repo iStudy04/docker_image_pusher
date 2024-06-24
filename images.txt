@@ -1,2 +1,1 @@
---platform=linux/x86_64 cm2network/steamcmd
---platform=linux/arm64 cm2network/steamcmd
+cm2network/steamcmd
