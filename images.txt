@@ -1,1 +1,1 @@
-cm2network/steamcmd
+xiaoyaliu/alist:latest
