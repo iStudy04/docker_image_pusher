@@ -1,1 +1,2 @@
 xiaoyaliu/alist:latest
+--platform linux/arm64 jenkins/jenkins:2.452.3-lts
